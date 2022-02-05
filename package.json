@@ -1,0 +1,27 @@
+{
+  "name": "socrative.js",
+  "version": "1.0.0",
+  "description": "Socrative.JS is a Node.JS client for the quiz game 'Socrative'.",
+  "main": "socrative.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "Socrative",
+    "client",
+    "socrative.js",
+    "api",
+    "quiz",
+    "game"
+  ],
+  "author": "RedYetiDev",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^12.0.1"
+  }
+}
